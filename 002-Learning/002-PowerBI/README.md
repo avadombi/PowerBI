@@ -1,4 +1,7 @@
 # What will be covered
+
+<img src="./Images/process.png" width="500px" />
+
 ## Step 1: ETL (Extract Transform Load) process using Power BI
 
 ETL stands for Extract, Transform, Load. It is a process used in data integration and data warehousing. In ETL, data is first **extracted from various sources**, then **transformed or manipulated to meet specific requirements**, and finally **loaded into a target system or database for analysis and reporting purposes**.
