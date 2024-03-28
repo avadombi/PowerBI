@@ -1,6 +1,6 @@
 # What will be covered
 
-<img src="./Images/process.png" width="550px" />
+<img src="./Images/example.png" width="550px" />
 
 ## Step 1: ETL (Extract Transform Load) process using Power BI
 
